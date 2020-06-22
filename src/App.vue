@@ -282,6 +282,8 @@ export default {
    background-color: #eee;
    font-family: "微軟正黑體";
    color: #002c36;
+   display: flex;
+   flex-direction: column;
    .h3 {
       * {
          vertical-align: middle;
@@ -340,7 +342,6 @@ export default {
    }
 }
 .searchBar {
-   height: 25%;
    .buyDay {
       span {
          font-size: 36px;
@@ -351,6 +352,5 @@ export default {
 .dataList {
    overflow-y: auto;
    overflow-x: visible;
-   height: 75%;
 }
 </style>
