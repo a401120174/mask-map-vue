@@ -1,19 +1,11 @@
-# map
+# 口罩及時存量地圖
 
-## Project setup
-```
-npm install
-```
+使用 Vue + leflet + openstreetmap 製作的口罩地圖
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 主要功能
 
-### Compiles and minifies for production
-```
-npm run build
-```
+可查詢特定縣市地區上藥口罩庫存的藥局，無庫存貨存量過低時也會有提示
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## demo 網址
+
+[點我](https://a401120174.github.io/maskMap-vue/)
