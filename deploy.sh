@@ -22,6 +22,6 @@ git commit -m 'deploy'
 # 部署到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
 # 以這個專案來講就要改成這樣以下這樣
-git push -f git@github.com:a401120174/maskMap-vue.git master:gh-pages
+git push -f git@github.com:a401120174/mask-map-vue.git master:gh-pages
 
 cd -
