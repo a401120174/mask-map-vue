@@ -8,4 +8,4 @@
 
 ## demo 網址
 
-[點我](https://a401120174.github.io/maskMap-vue/)
+[點我](https://a401120174.github.io/mask-map-vue/)
